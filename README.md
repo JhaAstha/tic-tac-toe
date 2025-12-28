@@ -1,6 +1,9 @@
 Tic Tac Toe Game in C
 A clean and beginner-friendly console-based Tic Tac Toe game developed using C language.
 The project focuses on core programming concepts like arrays, functions, and game logic.
+
+
+
 . Features
 Two-player mode (Player X vs Player O)
 3×3 interactive game board
@@ -8,6 +11,9 @@ Automatic winner and tie detection
 Simple terminal UI
 No external libraries required
 Compatible with Visual Studio, GCC, and other C compilers
+
+
+
 .  Technologies Used
 Language: C
 IDE: Visual Studio / GCC
@@ -49,6 +55,9 @@ Single-player mode (AI)
 Colored UI
 Keyboard-based navigation
 GUI version using graphics library
-Author
+
+
+
+
 Astha Jha
 B.Tech CSE Student
