@@ -1,4 +1,4 @@
-. Tic Tac Toe Game in C
+Tic Tac Toe Game in C
 A clean and beginner-friendly console-based Tic Tac Toe game developed using C language.
 The project focuses on core programming concepts like arrays, functions, and game logic.
 . Features
@@ -15,10 +15,11 @@ Concepts: Arrays, Loops, Functions, Conditional Logic
 . Project Structure
 Copy code
 
-. TicTacToe
-  . TicTacToe.c
-  .README.md
+
 . How to Run
+
+
+
 Using Visual Studio
 Create a Console App (C/C++)
 Paste the code into TicTacToe.c
@@ -40,11 +41,14 @@ Function-based program structure
 Game logic implementation
 Input validation
 Console-based application design
-. Future Enhancements
+
+
+
+Future Enhancements
 Single-player mode (AI)
 Colored UI
 Keyboard-based navigation
 GUI version using graphics library
-👩‍💻 Author
+Author
 Astha Jha
 B.Tech CSE Student
