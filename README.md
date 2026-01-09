@@ -55,6 +55,8 @@ Single-player mode (AI)
 Colored UI
 Keyboard-based navigation
 GUI version using graphics library
+more user friendly
+much precised details can be implemented just like a mobile game
 
 
 
