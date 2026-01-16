@@ -64,6 +64,10 @@ much precised details can be implemented just like a mobile game
 <img width="968" height="608" alt="Screenshot 2026-01-06 183157" src="https://github.com/user-attachments/assets/79a002c5-9974-420b-97d5-dc5293062dcd" />
 
 
+the above image is there just to showcase the game's design and looks
+
+one can also see the display button showing player X won,showcasing the working of our tictactoe game based on c
+
 
 
 
