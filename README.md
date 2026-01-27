@@ -1,6 +1,6 @@
 Tic Tac Toe Game in C
 A clean and beginner-friendly console-based Tic Tac Toe game developed using C language.
-The project focuses on core programming concepts like arrays, functions, and game  logic.
+The project focuses on core programming concepts like arrays, functions, and game  logic. 
 
 
 
