@@ -10,7 +10,7 @@ Two-player mode (Player X vs Player O)
 Automatic winner and tie detection
 Simple terminal UI
 No external libraries required
-Compatible with Visual Studio, GCC, and other C compilers
+Compatible with Visual Studio, GCC, and other C compilers 
 
 
 
